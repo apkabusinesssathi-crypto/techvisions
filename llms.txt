@@ -1,0 +1,12 @@
+# TechVision
+
+> TechVision is a performance marketing agency in Nagpur, Maharashtra. It runs Meta Ads (Facebook, Instagram) and Google Ads lead generation for real estate developers, channel partners and brokers in Nagpur, Pune and across Maharashtra, and gives clients a CRM that sends lead-quality feedback (good, junk, site visit, booking) back to Meta.
+
+## Key facts
+- Pricing: one monthly total = Meta ad spend + service fee. Starter Rs 20,000, Growth Rs 30,000, Scale Rs 50,000, Advanced Rs 75,000, Premium from Rs 1,00,000. Custom plans available.
+- Services: Meta Ads, Google Ads (Search, Call, Website Traffic, Display/YouTube), creative strategy, lead qualification, CRM with Meta Conversions API feedback.
+- Contact: +91 79054 52254 (call or WhatsApp), https://ag1001.tech/
+
+## Pages
+- [Home, services, pricing, FAQ](https://ag1001.tech/): everything is on this one page.
+- [FAQ](https://ag1001.tech/#faq): direct answers on cost, results, CRM feedback loop and Google Ads.
